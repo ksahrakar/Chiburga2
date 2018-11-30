@@ -1,0 +1,29 @@
+h1 {
+    background-color: coral;
+}
+
+.ctr{
+    text-align: center;
+}
+
+#pic{
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+#footer{
+    height:35px;
+    position:fixed;
+    bottom:0;
+    background:slategrey;
+    width:100%;
+}
+
+#sig{
+    float:right;
+    margin:5px 10px;
+    font-family:'Nova Mono',monospace";
+}
+
+
